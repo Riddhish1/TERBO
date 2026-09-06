@@ -1,5 +1,3 @@
-Yes. Based on the PPT's TEBO architecture and the setup structure in the attached README, I'd rename the project to **TERBO — Tool-Entropy Reinforcement Branching Optimization**. The README below focuses only on **what the project is and how to set it up/run it**—no contribution, acknowledgements, citation, or news sections. 
-
 ````markdown
 # TERBO
 
